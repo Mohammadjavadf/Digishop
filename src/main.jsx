@@ -11,7 +11,7 @@ import "./index.css";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <HelmetProvider>
-      <BrowserRouter basename="/Digishop">
+      <BrowserRouter>
         <ToastProvider>
           <CartProvider>
             <WishlistProvider>
