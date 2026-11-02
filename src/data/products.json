@@ -1,0 +1,627 @@
+[
+  {
+    "id": 1,
+    "title": "گوشی موبایل سامسونگ گلکسی S24 Ultra",
+    "category": "mobile",
+    "brand": "Samsung",
+    "price": 52900000,
+    "discount": 15,
+    "rating": 4.8,
+    "stock": 12,
+    "isFeatured": true,
+    "isNew": true,
+    "description": "گوشی پرچمدار سامسونگ با نمایشگر ۶.۸ اینچی Dynamic AMOLED، دوربین ۲۰۰ مگاپیکسلی و قلم S Pen. پردازنده Snapdragon 8 Gen 3 و باتری ۵۰۰۰ میلی‌آمپر.",
+    "specs": {
+      "نمایشگر": "۶.۸ اینچ Dynamic AMOLED 2X",
+      "پردازنده": "Snapdragon 8 Gen 3",
+      "حافظه": "۲۵۶ گیگابایت",
+      "رم": "۱۲ گیگابایت",
+      "باتری": "۵۰۰۰ میلی‌آمپر"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=800",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=800"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "لپ‌تاپ اپل مک‌بوک پرو ۱۴ اینچ",
+    "category": "laptop",
+    "brand": "Apple",
+    "price": 89500000,
+    "discount": 0,
+    "rating": 4.9,
+    "stock": 8,
+    "isFeatured": true,
+    "isNew": true,
+    "description": "مک‌بوک پرو ۱۴ اینچی با تراشه M3 Pro، نمایشگر Liquid Retina XDR و باتری تا ۱۸ ساعت. مناسب برای کارهای حرفه‌ای گرافیکی و برنامه‌نویسی.",
+    "specs": {
+      "نمایشگر": "۱۴.۲ اینچ Liquid Retina XDR",
+      "پردازنده": "Apple M3 Pro",
+      "حافظه": "۵۱۲ گیگابایت SSD",
+      "رم": "۱۸ گیگابایت",
+      "باتری": "تا ۱۸ ساعت"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "هدفون بی‌سیم سونی WH-1000XM5",
+    "category": "headphone",
+    "brand": "Sony",
+    "price": 12500000,
+    "discount": 20,
+    "rating": 4.7,
+    "stock": 25,
+    "isFeatured": true,
+    "isNew": false,
+    "description": "هدفون حذف نویز سونی با کیفیت صدای Hi-Res، ۳۰ ساعت باتری و میکروفون برای تماس. یکی از بهترین هدفون‌های حذف نویز بازار.",
+    "specs": {
+      "نوع": "روگوشی بی‌سیم",
+      "باتری": "تا ۳۰ ساعت",
+      "اتصال": "Bluetooth 5.2",
+      "حذف نویز": "فعال (ANC)",
+      "وزن": "۲۵۰ گرم"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ساعت هوشمند اپل واچ سری ۹",
+    "category": "watch",
+    "brand": "Apple",
+    "price": 18900000,
+    "discount": 10,
+    "rating": 4.6,
+    "stock": 15,
+    "isFeatured": true,
+    "isNew": true,
+    "description": "اپل واچ سری ۹ با تراشه S9، نمایشگر Always-On و قابلیت Double Tap. پایش سلامت قلب، اکسیژن خون و خواب.",
+    "specs": {
+      "نمایشگر": "۱.۹ اینچ LTPO OLED",
+      "باتری": "تا ۱۸ ساعت",
+      "مقاومت": "IP6X و 50 متر آب",
+      "سنسور": "ضربان قلب، ECG، SpO2",
+      "اتصال": "GPS + Cellular"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=800",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "تبلت سامسونگ گلکسی تب S9",
+    "category": "tablet",
+    "brand": "Samsung",
+    "price": 34500000,
+    "discount": 12,
+    "rating": 4.5,
+    "stock": 10,
+    "isFeatured": false,
+    "isNew": true,
+    "description": "تبلت ۱۱ اینچی سامسونگ با صفحه TFT، قلم S Pen همراه و پردازنده Snapdragon 8 Gen 2. مناسب برای طراحی و تماشای فیلم.",
+    "specs": {
+      "نمایشگر": "۱۱ اینچ TFT",
+      "پردازنده": "Snapdragon 8 Gen 2",
+      "حافظه": "۱۲۸ گیگابایت",
+      "رم": "۸ گیگابایت",
+      "باتری": "۸۴۰۰ میلی‌آمپر"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=800",
+      "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "گوشی موبایل شیائومی 14 Pro",
+    "category": "mobile",
+    "brand": "Xiaomi",
+    "price": 38900000,
+    "discount": 18,
+    "rating": 4.6,
+    "stock": 20,
+    "isFeatured": true,
+    "isNew": true,
+    "description": "شیائومی 14 Pro با لنز لایکا، نمایشگر ۶.۷۳ اینچی AMOLED و شارژ سریع ۱۲۰ واتی. پردازنده Snapdragon 8 Gen 3.",
+    "specs": {
+      "نمایشگر": "۶.۷۳ اینچ AMOLED",
+      "پردازنده": "Snapdragon 8 Gen 3",
+      "حافظه": "۲۵۶ گیگابایت",
+      "رم": "۱۲ گیگابایت",
+      "باتری": "۴۸۸۰ میلی‌آمپر"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=800"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "لپ‌تاپ ایسوس ZenBook 14",
+    "category": "laptop",
+    "brand": "Asus",
+    "price": 42000000,
+    "discount": 8,
+    "rating": 4.4,
+    "stock": 6,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "لپ‌تاپ ۱۴ اینچی ایسوس با پردازنده Intel Core i7 نسل ۱۳، نمایشگر OLED و وزن سبک ۱.۳ کیلوگرم. مناسب برای کارهای روزمره و دانشجویی.",
+    "specs": {
+      "نمایشگر": "۱۴ اینچ OLED",
+      "پردازنده": "Intel Core i7-1360P",
+      "حافظه": "۵۱۲ گیگابایت SSD",
+      "رم": "۱۶ گیگابایت",
+      "وزن": "۱.۳ کیلوگرم"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "ایرپاد پرو نسل ۲ اپل",
+    "category": "headphone",
+    "brand": "Apple",
+    "price": 8900000,
+    "discount": 25,
+    "rating": 4.8,
+    "stock": 30,
+    "isFeatured": true,
+    "isNew": false,
+    "description": "ایرپاد پرو ۲ با تراشه H2، حذف نویز فعال دو برابر بهتر و حالت Transparency. شارژ تا ۶ ساعت با کیس.",
+    "specs": {
+      "نوع": "درون‌گوشی بی‌سیم",
+      "باتری": "تا ۶ ساعت (۳۰ ساعت با کیس)",
+      "اتصال": "Bluetooth 5.3",
+      "حذف نویز": "فعال (ANC)",
+      "مقاومت": "IP54"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800",
+      "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=800",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "ساعت هوشمند سامسونگ Galaxy Watch 6",
+    "category": "watch",
+    "brand": "Samsung",
+    "price": 11200000,
+    "discount": 15,
+    "rating": 4.4,
+    "stock": 18,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "ساعت هوشمند سامسونگ با نمایشگر Super AMOLED، پایش خواب و ترکیب بدن. سازگار با اندروید.",
+    "specs": {
+      "نمایشگر": "۱.۳ اینچ Super AMOLED",
+      "باتری": "۴۲۵ میلی‌آمپر",
+      "مقاومت": "5ATM + IP68",
+      "سنسور": "ضربان قلب، SpO2، ترکیب بدن",
+      "اتصال": "Bluetooth 5.3"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800",
+      "https://images.unsplash.com/photo-1617043786394-f977fa12eddf?w=800"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "پاوربانک انکر ۲۰۰۰۰ میلی‌آمپر",
+    "category": "accessory",
+    "brand": "Anker",
+    "price": 2450000,
+    "discount": 30,
+    "rating": 4.3,
+    "stock": 50,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "پاوربانک ۲۰۰۰۰ میلی‌آمپری انکر با شارژ سریع ۳۰ وات و دو پورت USB. مناسب برای شارژ موبایل و تبلت در سفر.",
+    "specs": {
+      "ظرفیت": "۲۰۰۰۰ میلی‌آمپر",
+      "توان": "۳۰ وات",
+      "پورت": "۲x USB-A + 1x USB-C",
+      "وزن": "۳۴۵ گرم",
+      "ویژگی": "شارژ سریع PowerIQ"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800",
+      "https://images.unsplash.com/photo-1591290619762-c588f3d33b0c?w=800"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "گوشی موبایل گوگل پیکسل ۸ پرو",
+    "category": "mobile",
+    "brand": "Google",
+    "price": 45500000,
+    "discount": 0,
+    "rating": 4.7,
+    "stock": 9,
+    "isFeatured": false,
+    "isNew": true,
+    "description": "پیکسل ۸ پرو با تراشه Tensor G3، دوربین ۵۰ مگاپیکسلی و قابلیت‌های هوش مصنوعی. نمایشگر ۶.۷ اینچی LTPO OLED.",
+    "specs": {
+      "نمایشگر": "۶.۷ اینچ LTPO OLED",
+      "پردازنده": "Google Tensor G3",
+      "حافظه": "۲۵۶ گیگابایت",
+      "رم": "۱۲ گیگابایت",
+      "باتری": "۵۰۵۰ میلی‌آمپر"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "کیبورد مکانیکال لاجیتک MX Keys",
+    "category": "accessory",
+    "brand": "Logitech",
+    "price": 5200000,
+    "discount": 10,
+    "rating": 4.5,
+    "stock": 22,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "کیبورد بی‌سیم لاجیتک با نور پس‌زمینه هوشمند، باتری تا ۱۰ روز و اتصال سه‌گانه (Bluetooth + USB Receiver).",
+    "specs": {
+      "نوع": "مکانیکال بی‌سیم",
+      "باتری": "تا ۱۰ روز",
+      "اتصال": "Bluetooth + USB Receiver",
+      "نور": "پس‌زمینه هوشمند",
+      "سازگاری": "Windows, macOS, Linux"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800",
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=800",
+      "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=800"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ماوس بی‌سیم لاجیتک MX Master 3S",
+    "category": "accessory",
+    "brand": "Logitech",
+    "price": 4100000,
+    "discount": 12,
+    "rating": 4.8,
+    "stock": 28,
+    "isFeatured": true,
+    "isNew": false,
+    "description": "ماوس حرفه‌ای لاجیتک با سنسور ۸۰۰۰ DPI، اسکرول الکترومغناطیسی و اتصال سه‌گانه. مناسب برای طراحی و برنامه‌نویسی.",
+    "specs": {
+      "سنسور": "۸۰۰۰ DPI",
+      "باتری": "تا ۷۰ روز",
+      "اتصال": "Bluetooth + USB Receiver",
+      "دکمه": "۷ دکمه قابل تنظیم",
+      "سازگاری": "Windows, macOS, Linux"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800",
+      "https://images.unsplash.com/photo-1605773527852-c546a8584ea3?w=800"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "هدفون گیمینگ هایپرایکس Cloud III",
+    "category": "headphone",
+    "brand": "HyperX",
+    "price": 6800000,
+    "discount": 22,
+    "rating": 4.6,
+    "stock": 16,
+    "isFeatured": false,
+    "isNew": true,
+    "description": "هدفون گیمینگ HyperX با درایور ۵۳ میلی‌متری، میکروفون حذف نویز و فوم مموری. مناسب برای بازی و استریم.",
+    "specs": {
+      "نوع": "روگوشی گیمینگ",
+      "درایور": "۵۳ میلی‌متر",
+      "میکروفون": "حذف نویز",
+      "اتصال": "USB + 3.5mm",
+      "وزن": "۳۲۰ گرم"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1599669454699-248893623440?w=800",
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "تبلت اپل آی‌پد ایر ۵",
+    "category": "tablet",
+    "brand": "Apple",
+    "price": 29800000,
+    "discount": 5,
+    "rating": 4.7,
+    "stock": 11,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "آی‌پد ایر ۵ با تراشه M1، نمایشگر ۱۰.۹ اینچی Liquid Retina و پشتیبانی از Apple Pencil نسل ۲. مناسب برای طراحی و مطالعه.",
+    "specs": {
+      "نمایشگر": "۱۰.۹ اینچ Liquid Retina",
+      "پردازنده": "Apple M1",
+      "حافظه": "۲۵۶ گیگابایت",
+      "رم": "۸ گیگابایت",
+      "باتری": "تا ۱۰ ساعت"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800",
+      "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=800"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "گوشی موبایل وان‌پلاس 12",
+    "category": "mobile",
+    "brand": "OnePlus",
+    "price": 36200000,
+    "discount": 14,
+    "rating": 4.5,
+    "stock": 14,
+    "isFeatured": false,
+    "isNew": true,
+    "description": "وان‌پلاس 12 با پردازنده Snapdragon 8 Gen 3، نمایشگر ۶.۸۲ اینچی AMOLED و شارژ سریع ۱۰۰ واتی. دوربین Hasselblad.",
+    "specs": {
+      "نمایشگر": "۶.۸۲ اینچ AMOLED",
+      "پردازنده": "Snapdragon 8 Gen 3",
+      "حافظه": "۲۵۶ گیگابایت",
+      "رم": "۱۲ گیگابایت",
+      "باتری": "۵۴۰۰ میلی‌آمپر"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=800"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "مانیتور ال‌جی UltraGear 27 اینچ",
+    "category": "monitor",
+    "brand": "LG",
+    "price": 21500000,
+    "discount": 10,
+    "rating": 4.6,
+    "stock": 7,
+    "isFeatured": true,
+    "isNew": false,
+    "description": "مانیتور گیمینگ ال‌جی ۲۷ اینچی با رزولوشن QHD، نرخ نوسازی ۱۶۵ هرتز و زمان پاسخ ۱ میلی‌ثانیه. پشتیبانی از G-Sync و FreeSync.",
+    "specs": {
+      "اندازه": "۲۷ اینچ",
+      "رزولوشن": "QHD (2560x1440)",
+      "نرخ نوسازی": "۱۶۵ هرتز",
+      "زمان پاسخ": "۱ میلی‌ثانیه",
+      "پنل": "Nano IPS"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800",
+      "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=800",
+      "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=800"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "هندزفری بلوتوثی سامسونگ Buds2 Pro",
+    "category": "headphone",
+    "brand": "Samsung",
+    "price": 5900000,
+    "discount": 18,
+    "rating": 4.4,
+    "stock": 35,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "هندزفری بی‌سیم سامسونگ با حذف نویز هوشمند، صدای ۲۴ بیتی Hi-Fi و مقاومت IPX7. مناسب برای ورزش و تماس.",
+    "specs": {
+      "نوع": "درون‌گوشی بی‌سیم",
+      "باتری": "تا ۵ ساعت (۱۸ ساعت با کیس)",
+      "اتصال": "Bluetooth 5.3",
+      "حذف نویز": "فعال هوشمند",
+      "مقاومت": "IPX7"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
+      "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=800",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "لپ‌تاپ دل XPS 13 Plus",
+    "category": "laptop",
+    "brand": "Dell",
+    "price": 68000000,
+    "discount": 7,
+    "rating": 4.5,
+    "stock": 5,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "لپ‌تاپ ۱۳.۴ اینچی دل با پردازنده Intel Core i7 نسل ۱۳، نمایشگر OLED لمسی و طراحی فوق باریک. مناسب برای حرفه‌ای‌ها.",
+    "specs": {
+      "نمایشگر": "۱۳.۴ اینچ OLED لمسی",
+      "پردازنده": "Intel Core i7-1360P",
+      "حافظه": "۱ ترابایت SSD",
+      "رم": "۱۶ گیگابایت",
+      "وزن": "۱.۲۶ کیلوگرم"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "ساعت هوشمند شیائومی Watch S1 Pro",
+    "category": "watch",
+    "brand": "Xiaomi",
+    "price": 4900000,
+    "discount": 20,
+    "rating": 4.2,
+    "stock": 24,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "ساعت هوشمند شیائومی با نمایشگر AMOLED ۱.۴۷ اینچی، باتری تا ۱۴ روز و پایش سلامت کامل. مناسب برای استفاده روزمره.",
+    "specs": {
+      "نمایشگر": "۱.۴۷ اینچ AMOLED",
+      "باتری": "تا ۱۴ روز",
+      "مقاومت": "5ATM",
+      "سنسور": "ضربان قلب، SpO2، خواب",
+      "اتصال": "Bluetooth 5.2"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "دوربین دیجیتال کانن EOS R50",
+    "category": "camera",
+    "brand": "Canon",
+    "price": 47000000,
+    "discount": 5,
+    "rating": 4.7,
+    "stock": 6,
+    "isFeatured": true,
+    "isNew": true,
+    "description": "دوربین بدون آینه کانن با سنسور APS-C ۲۴.۲ مگاپیکسلی، فیلم‌برداری 4K و فوکوس خودکار هوشمند. مناسب برای عکاسی حرفه‌ای.",
+    "specs": {
+      "سنسور": "APS-C 24.2MP",
+      "فیلم": "4K 30fps",
+      "فوکوس": "Dual Pixel CMOS AF II",
+      "اتصال": "Wi-Fi + Bluetooth",
+      "وزن": "۳۷۵ گرم"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "اسپیکر بلوتوثی JBL Charge 5",
+    "category": "accessory",
+    "brand": "JBL",
+    "price": 3800000,
+    "discount": 15,
+    "rating": 4.5,
+    "stock": 40,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "اسپیکر بلوتوثی JBL با صدای قدرتمند، باتری تا ۲۰ ساعت و مقاومت IP67. قابلیت شارژ موبایل از طریق پورت USB.",
+    "specs": {
+      "نوع": "اسپیکر بلوتوثی",
+      "باتری": "تا ۲۰ ساعت",
+      "اتصال": "Bluetooth 5.1",
+      "مقاومت": "IP67",
+      "ویژگی": "Powerbank"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800",
+      "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=800",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=800"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "گوشی موبایل اوپو Find X7",
+    "category": "mobile",
+    "brand": "Oppo",
+    "price": 41800000,
+    "discount": 10,
+    "rating": 4.4,
+    "stock": 13,
+    "isFeatured": false,
+    "isNew": true,
+    "description": "اوپو Find X7 با دوربین Hasselblad، نمایشگر ۶.۷۸ اینچی AMOLED و شارژ سریع ۱۰۰ واتی. پردازنده Dimensity 9300.",
+    "specs": {
+      "نمایشگر": "۶.۷۸ اینچ AMOLED",
+      "پردازنده": "Dimensity 9300",
+      "حافظه": "۲۵۶ گیگابایت",
+      "رم": "۱۲ گیگابایت",
+      "باتری": "۵۰۰۰ میلی‌آمپر"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=800",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "میکروفون یتی Blue Yeti",
+    "category": "accessory",
+    "brand": "Blue",
+    "price": 7200000,
+    "discount": 0,
+    "rating": 4.6,
+    "stock": 9,
+    "isFeatured": false,
+    "isNew": false,
+    "description": "میکروفون USB حرفه‌ای Blue Yeti با سه کپسول، چهار الگوی ضبط و پشتیبانی از صدای ۴۸ کیلوهرتز. مناسب برای پادکست و استریم.",
+    "specs": {
+      "نوع": "میکروفون USB",
+      "الگو": "۴ الگوی ضبط",
+      "نرخ نمونه": "48kHz/24bit",
+      "اتصال": "USB",
+      "وزن": "۵۵۰ گرم"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=800",
+      "https://images.unsplash.com/photo-1589903308904-1010c2294adc?w=800",
+      "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "کنسول بازی سونی PlayStation 5",
+    "category": "console",
+    "brand": "Sony",
+    "price": 52000000,
+    "discount": 8,
+    "rating": 4.9,
+    "stock": 4,
+    "isFeatured": true,
+    "isNew": false,
+    "description": "کنسول بازی پلی‌استیشن ۵ با پردازنده Zen 2، گرافیک RDNA 2 و SSD فوق سریع. پشتیبانی از رزولوشن 4K و ۱۲۰ فریم.",
+    "specs": {
+      "پردازنده": "AMD Zen 2",
+      "گرافیک": "RDNA 2",
+      "حافظه": "۸۲۵ گیگابایت SSD",
+      "رزولوشن": "4K",
+      "خروجی": "HDMI 2.1"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800",
+      "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=800",
+      "https://images.unsplash.com/photo-1622297845775-5ff3fef71d13?w=800"
+    ]
+  }
+]
