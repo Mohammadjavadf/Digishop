@@ -23,6 +23,7 @@ export default function ProductListing({
 
   const updateFilters = (patch) => {
     setFilters((f) => ({ ...f, ...patch }));
+    setMobileFiltersOpen(false);
   };
 
   const resetFilters = () => {
@@ -32,6 +33,7 @@ export default function ProductListing({
       minPrice: 0,
       maxPrice: 100000000,
     });
+    setMobileFiltersOpen(false);
   };
 
   // برندهای موجود در لیست فعلی
